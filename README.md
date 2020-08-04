@@ -1,32 +1,26 @@
+### Hi there, my name is Billi Ramirez, and I'm from Nicaragua 👋
 
-# Hola 👋, esta es la comunidad de Javascript Nicaragua 🇳🇮 - @js-ni
+![Image of Nicaragua](https://res.cloudinary.com/billiramirez/image/upload/v1596340685/IMG_20200726_164644-01_jo81wo.jpg)
 
-![Javascript Nicaragua](https://pbs.twimg.com/profile_images/1266944225796554752/9-HOQz6s.jpg)
+#### About Me
 
-#### Acerca de Nosotros
 
-📝 Somos un grupo de desarrolladores que nos reunimos para hablar acerca de librerías, frameworks y todo lo relacionado a JavaScript. Nos reunimos para socializar y comer pizza 🍕, compartimos conocimientos 🧠 mediante charlas presenciales o vía Youtube/Facebook Lives. Creamos capital social para tener nuevas oportunidades de empleo.
+🔭 I'm a software developer, currently working at [SolidlogixLLC](http://solidlogix.com/), a Boston based software development company dedicated to bringing excellent ideas to life using proven design methodologies and best practices. 
+I believe in giving the customer what exactly needs. Constantly meetings make more accurate software and more valuables features are delivered first. Let's build the right solution 👨🏻‍💻
 
-Estamos en constantes realización de eventos, tales como JSTalks | Coffeejs 👨🏻‍💻👩🏻‍💻
 
-#### Tecnologías que más nos apasionan
+👯 I'm passionate about colaborating with communities, specially with Javascript community, I'm staff member of [Javascript Nicaragua](https://ni.js.org/)
 
-Estamos en constante debates de las tecnologías que más nos apasionan entorno al ecosistema de Javascript tales como:
 
-- [Reactjs](https://reactjs.org/)
-- [Nodejs](https://nodejs.org/en/)
-- [Angular](https://angular.io/)
-- [GraphQL](https://graphql.org/)
-- [Nextjs](https://nextjs.org/)
-- [Gatsbyjs](https://www.gatsbyjs.org/)
+#### Musician by Passion
 
-#### 📫 Contactanos/Síguenos
 
-Puedes contactarnos mediante los siguientes medios:
+I'm in love with music, here I share with you some skill on this background:
+- I play the piano 🎹
+- I like to sing 🎤 
+- I play the guitar 🎸
 
-- [facebook.com/javascriptni/](https://www.facebook.com/javascriptni/)
-- [instagram.com/javascript_ni/](https://www.instagram.com/javascript_ni/)
-- [Tenemos grupo en Whatsapp](https://chat.whatsapp.com/KdKrEt9RKPG7fGtRHnVgVA)
-- [Únete a Slack](https://join.slack.com/t/javascript-nicaragua/shared_invite/zt-eyj6vlp2-0efY~7pLTqWVmLAmfTzVag)
-- [Nuestro Website](http://ni.js.org/)
-- [Subscribete al Canal de Youtube](https://www.youtube.com/channel/UC2qZ0Fvw9NNN5ROdKydeV8Q)
+#### 📫 Contact Me
+
+You can reach me out, by 
+📧 You can send me an email to: [billyramirezalex@gmail.com](billyramirezalex@gmal.com), you can also find me in [LinkedIn](https://www.linkedin.com/in/billiramirez/)
