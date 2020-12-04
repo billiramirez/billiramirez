@@ -24,3 +24,4 @@ I'm in love with music, here I share with you some skill on this background:
 
 You can reach me out, by 
 📧 You can send me an email to: [billyramirezalex@gmail.com](billyramirezalex@gmal.com), you can also find me in [LinkedIn](https://www.linkedin.com/in/billiramirez/)
+I also have a [Website](https://www.billiramirez.dev/) and a [Blog](https://blog.billiramirez.dev/)
