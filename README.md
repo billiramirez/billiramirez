@@ -5,8 +5,8 @@
 #### About Me
 
 
-🔭 I'm a software developer, currently working at [Nicasource, LLC](http://nicasource.com/), a Boston based software development company dedicated to bringing excellent ideas to life using proven design methodologies and best practices. 
-I believe in giving the customer what exactly needs. Constantly meetings make more accurate software and more valuables features are delivered first. Let's build the right solution 👨🏻‍💻
+🔭 I'm a Software Engineer, currently working at [Nicasource, LLC](http://nicasource.com/), a Nicaragua based software development company dedicated to bringing excellent ideas to life using proven design methodologies and best practices. 
+I'm really passionate about the Javascript ecosystem. I have extensive experience with Nodejs, GraphQL, Reactjs, React Native, and many others. Fast learner with excellent organizational, soft skills, time management prioritization, follow-up, and the ability to work both independently and within a team environment 👨🏻‍💻
 
 
 👯 I'm passionate about colaborating with communities, specially with Javascript community, I'm staff member of [Javascript Nicaragua](https://ni.js.org/)
